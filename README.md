@@ -21,7 +21,7 @@ I'm a JavaScript/TypeScript developer with a strong background in **game develop
 - TypeScript, JavaScript (ES6+)
 
 **⚙️ Build & Deployment**
-- Webpack, Gulp, Grunt, TeamCity, Git
+- Webpack, Rollup, TeamCity, Git
 - CI/CD pipelines, automated testing, task runners
 
 
