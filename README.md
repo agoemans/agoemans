@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**agoemans/agoemans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 JavaScript/TypeScript Developer | ⚙️ Build Pipeline Optimizer 🕹️ Game Framework Enthusiast |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a JavaScript/TypeScript developer with a strong background in **game development frameworks**, **build pipelines**, and **full-stack web applications**. 
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**🎮 Game Development & Tooling**
+- Phaser, PixiJS, CreateJS, Cocos Creator, Construct 3
+- Asset processing, automation, and tool development
+
+**🌐 Full-Stack Web Development**
+- React, Redux, Node.js, Express, REST APIs
+- TypeScript, JavaScript (ES6+)
+
+**⚙️ Build & Deployment**
+- Webpack, Gulp, Grunt, TeamCity, Git
+- CI/CD pipelines, automated testing, task runners
+
+
+---
+
+## 💡 Fun Facts
+
+- 🧙 Big fan of **Dungeons & Dragons** – here for the adventure, left with the loot.
+- 🎲 Love **board games** – strategy, co-op, deck building ... you name it!
+- 👻 Horror movie buff – from creepy classics to psychological thrillers.
+
+---
+
+> “Why bother with a cunning plan when a simple one will do?”  
+> – Terry Pratchett, *Thud*
